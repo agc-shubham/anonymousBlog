@@ -1,0 +1,52 @@
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navlarge {
+    background-color: #1abc9c ;
+}
+.navbar-nav  li a:hover {
+    color:#EAF6F6 !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: relative;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #1abc9c;
+}
+.footerbottom {
+	position: absolute;
+	text-align: center;
+	top: 100%; 
+	width: 100%;
+	height: 60px;
+	background-color: #1abc9c;
+}
+.footerbottom>p {
+	padding-top: 25px;
+	font-size: 1.5rem;
+  color: #fff;
+}
+
+.footer>p {
+	padding-top: 25px;
+	font-size: 1.5rem;
+  color: #fff;
+}
